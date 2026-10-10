@@ -14,7 +14,7 @@ class DatabaseSeeder extends Seeder
             'FNM'      => 'Maria',
             'LNM'      => 'Santos',
             'Role'     => 'manager',
-            'Username' => 'maria',
+            'Username' => 'maria@username',
             'Password' => Hash::make('maria2026'),
         ]);
     }
